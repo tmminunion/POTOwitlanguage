@@ -1,0 +1,1159 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.4.50",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_draco_mesh_compression",
+        "KHR_lights_punctual"
+    ],
+    "extensionsRequired" : [
+        "KHR_draco_mesh_compression",
+        "KHR_lights_punctual"
+    ],
+    "extensions" : {
+        "KHR_lights_punctual" : {
+            "lights" : [
+                {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 54351.41306588226,
+                    "type" : "point",
+                    "name" : "Light"
+                }
+            ]
+        }
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "coat3D" : {
+                    "exchangeFolder" : ""
+                },
+                "assets used" : {
+                    "e8cb5c53-ad42-42e1-9341-06751bf3aff2" : {
+                        "thumbnail" : "thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85_crop-%2C.png.webp",
+                        "thumbnail_small" : "thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85_crop-%2C.png.webp",
+                        "downloaded" : 100,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/8246bfd8-33ff-4754-b63b-14589811930b/",
+                        "id" : "8246bfd8-33ff-4754-b63b-14589811930b",
+                        "assetBaseId" : "e8cb5c53-ad42-42e1-9341-06751bf3aff2",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "42913",
+                            "firstName" : "Nobody",
+                            "lastName" : "",
+                            "gravatarHash" : "823d05a61b2fa0dd7c17a66de7198da5",
+                            "avatar128" : "/avatar-redirect/b8598a7e-0182-40e5-8f82-b6cfa582af85/128/",
+                            "aboutMe" : "Mostly i do interior stuff\r\n\r\nYou can contact me here: lukaspistek666@gmail.com",
+                            "aboutMeUrl" : "https://www.deviantart.com/relev4nt"
+                        },
+                        "name" : "Fine Gold",
+                        "displayName" : "Fine Gold",
+                        "description" : "With Small amount of scratches",
+                        "assetType" : "material",
+                        "category" : "metal",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "gold",
+                            "metal"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.91.0",
+                        "addonVersion" : "1.0.32",
+                        "created" : "2020-10-28T12:23:10.868390+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/26385/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/8246bfd833ff4754b63b14589811930b/files/blend_7719c56c-4244-4226-aa4a-80122ab5aef2.blend",
+                                "file_name" : "blend_7719c56c-4244-4226-aa4a-80122ab5aef2.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/26384/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 61,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85.png.webp?webp_generated=1608287797",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85.png.webp?webp_generated=1608287797",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85.png.webp?webp_generated=1608287797",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85.png.webp?webp_generated=1608287797",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1608287797,
+                        "score" : 369.4117647058823,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 4.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 9.235294117647058,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 4.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 17,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 19,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 157.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 63.699999999999996,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 1,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 0,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "uv" : 0,
+                            "nodeCount" : 10,
+                            "textureCount" : 0,
+                            "megapixels" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Fine Gold",
+                            "author_text" : "by Nobody ",
+                            "quality" : "9"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "0d4c7cb7-f6f2-408e-bd72-4d75677ab024" : {
+                        "thumbnail" : "thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.512x512_q85_crop-%2C.png.webp",
+                        "thumbnail_small" : "thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.256x256_q85_crop-%2C.png.webp",
+                        "downloaded" : 100,
+                        "texture_size_meters" : 2.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/9c9cca39-7015-4eb8-9b4f-4120babaa738/",
+                        "id" : "9c9cca39-7015-4eb8-9b4f-4120babaa738",
+                        "assetBaseId" : "0d4c7cb7-f6f2-408e-bd72-4d75677ab024",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "13513",
+                            "firstName" : "Daniel",
+                            "lastName" : "Stauffer",
+                            "gravatarHash" : "56bea49eb057ff030b36fe02c2e85218",
+                            "avatar128" : "/avatar-redirect/50f076fd-0855-4cfa-b53d-7da6153b8f75/128/",
+                            "aboutMe" : "",
+                            "aboutMeUrl" : null,
+                            "app_id" : 23104,
+                            "tooltip" : "Daniel Stauffer\n\n",
+                            "gravatarImg" : "C:\\Users\\tmmin\\AppData\\Local\\Temp\\bkit_temp\\bkit_g\\13513.jpg"
+                        },
+                        "name" : "Scratched Gold",
+                        "displayName" : "Scratched Gold",
+                        "description" : "A nice and old, destroyed gold material",
+                        "assetType" : "material",
+                        "category" : "metal",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Gold",
+                            "Metal",
+                            "PBR",
+                            "Realistic"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.81.16",
+                        "addonVersion" : "1.0.28",
+                        "created" : "2020-01-24T09:56:35.322834+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13491/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/36572/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/36571/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/36570/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/9c9cca3970154eb89b4f4120babaa738/files/resolution_2K_6ee64ee4-4067-4ff4-93f8-344b497736ed.blend",
+                                "file_name" : "resolution_2K_6ee64ee4-4067-4ff4-93f8-344b497736ed.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13490/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 15416,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.2048x2048_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.256x256_q85_crop-%2C.png.webp?webp_generated=1608301088",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.512x512_q85_crop-%2C.png.webp?webp_generated=1608301088",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1608301088",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1608301088",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.256x256_q85.png.webp?webp_generated=1608301088",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.512x512_q85.png.webp?webp_generated=1608301088",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.1024x1024_q85.png.webp?webp_generated=1608301088",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/9c9cca3970154eb89b4f4120babaa738/files/thumbnail_b1f173ed-dca1-4391-b7a1-3f63461a981b.png.2048x2048_q85.png.webp?webp_generated=1608301088",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1608301088,
+                        "score" : 163.79999999999998,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 1.8,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 9.1,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 1.8,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 10,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 10,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 91.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 22.1,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 2048,
+                            "textureSizeMeters" : 2.0,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 1,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 2048
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048
+                        ],
+                        "max_resolution" : 2048,
+                        "tooltip_data" : {
+                            "aname" : "Scratched Gold",
+                            "author_text" : "by Daniel Stauffer",
+                            "quality" : "9"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "612d09c7-cdf2-474a-b1cf-dc4ebb9760dc" : {
+                        "thumbnail" : "thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.512x512_q85_crop-%2C.png.webp",
+                        "thumbnail_small" : "thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.256x256_q85_crop-%2C.png.webp",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/aa45a03b-916f-491c-b836-926d8b5e4fb1/",
+                        "id" : "aa45a03b-916f-491c-b836-926d8b5e4fb1",
+                        "assetBaseId" : "612d09c7-cdf2-474a-b1cf-dc4ebb9760dc",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "245077",
+                            "firstName" : "Rous",
+                            "lastName" : "Kristall",
+                            "gravatarHash" : "1f11fedec5ee30a50a8870eecc8a3796",
+                            "avatar128" : "/avatar-redirect/fff36896-b294-4862-81bf-bc90768e876f/128/",
+                            "aboutMe" : "",
+                            "aboutMeUrl" : "https://www.artstation.com/rous_kristall"
+                        },
+                        "name" : "Pink, white and gold triangle pattern",
+                        "displayName" : "Pink, white and gold triangle pattern",
+                        "description" : "Pink and white triangle pattern with golden tiles",
+                        "assetType" : "material",
+                        "category" : "tiles",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "pink",
+                            "rose",
+                            "white",
+                            "gray",
+                            "gold",
+                            "triangle",
+                            "pattern",
+                            "tile",
+                            "bath",
+                            "wall",
+                            "toilet",
+                            "ornament",
+                            "metal",
+                            "concrete"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.3.1",
+                        "addonVersion" : "3.2.0",
+                        "created" : "2022-10-22T09:13:01.547750+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146222/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/147184/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/147183/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/147182/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/aa45a03b916f491cb836926d8b5e4fb1/files/resolution_2K_2c9b18a4-cc86-48f1-a7bc-f4ab85b6ffb3.blend",
+                                "file_name" : "resolution_2K_2c9b18a4-cc86-48f1-a7bc-f4ab85b6ffb3.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/145691/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 44081,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.2048x2048_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.256x256_q85_crop-%2C.png.webp?webp_generated=1667249451",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.512x512_q85_crop-%2C.png.webp?webp_generated=1667249451",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1667249451",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1667249451",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.256x256_q85.png.webp?webp_generated=1667249451",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.512x512_q85.png.webp?webp_generated=1667249451",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.1024x1024_q85.png.webp?webp_generated=1667249451",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/aa45a03b916f491cb836926d8b5e4fb1/files/thumbnail_9310ae01-970e-4305-be8e-75958aa0f0d2.png.2048x2048_q85.png.webp?webp_generated=1667249451",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1667249451,
+                        "score" : 400.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 4.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 4.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 2,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 2,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 20.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 8.0,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 2048,
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 0,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 1,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "diffuse",
+                                "mix shader",
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 2048,
+                            "nodeCount" : 18,
+                            "textureCount" : 6,
+                            "megapixels" : 24
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048
+                        ],
+                        "max_resolution" : 2048,
+                        "tooltip_data" : {
+                            "aname" : "Pink, white and gold triangle pat...",
+                            "author_text" : "by Rous Kristall",
+                            "quality" : "10"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "5eed9954-fe8f-4a1d-a4f1-1270afdcd1d0" : {
+                        "thumbnail" : "thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.512x512_q85_crop-%2C.png.webp",
+                        "thumbnail_small" : "thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.256x256_q85_crop-%2C.png.webp",
+                        "downloaded" : 100,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/a42010e9-e451-45e7-ad18-a748bc805a2e/",
+                        "id" : "a42010e9-e451-45e7-ad18-a748bc805a2e",
+                        "assetBaseId" : "5eed9954-fe8f-4a1d-a4f1-1270afdcd1d0",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "425",
+                            "firstName" : "DJ",
+                            "lastName" : "SOLANA",
+                            "gravatarHash" : "acd315a95924202e8dba15edafa9d8ef",
+                            "avatar128" : "/avatar-redirect/f5dfc2fc-834f-4feb-8658-8f8b1072cfa9/128/",
+                            "aboutMe" : "\u2022 Graphic & Product Designer\r\n\u2022 3D Artist & Maker",
+                            "aboutMeUrl" : "http://www.jackinthebox.com.hk",
+                            "app_id" : 23104,
+                            "tooltip" : "DJ SOLANA\n\n\u2022 Graphic & Product Designer\n\u2022 3D Artist & Maker\n",
+                            "gravatarImg" : "C:\\Users\\tmmin\\AppData\\Local\\Temp\\bkit_temp\\bkit_g\\425.jpg"
+                        },
+                        "name" : "Gold Leaf",
+                        "displayName" : "Gold Leaf",
+                        "description" : "",
+                        "assetType" : "material",
+                        "category" : "metal",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Metal",
+                            "Gilding",
+                            "Jewellery",
+                            "Antique",
+                            "Ornaments"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.79.0",
+                        "addonVersion" : "0.4.15",
+                        "created" : "2019-02-20T08:10:02.965383+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/4022/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/a42010e9e45145e7ad18a748bc805a2e/files/blend_65a96c7b-f96f-43a9-9fc6-35a31fa91af4.blend",
+                                "file_name" : "blend_65a96c7b-f96f-43a9-9fc6-35a31fa91af4.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/4021/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 58,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.2048x2048_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.256x256_q85_crop-%2C.png.webp?webp_generated=1608296442",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.512x512_q85_crop-%2C.png.webp?webp_generated=1608296442",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1608296442",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1608296442",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.256x256_q85.png.webp?webp_generated=1608296442",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.512x512_q85.png.webp?webp_generated=1608296442",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.1024x1024_q85.png.webp?webp_generated=1608296442",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a42010e9e45145e7ad18a748bc805a2e/files/thumbnail_5e3f0454-fb04-4733-b46a-80b2a799eca2.png.2048x2048_q85.png.webp?webp_generated=1608296442",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1608296442,
+                        "score" : 188.88888888888889,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 2.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 9.444444444444445,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 2.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 9,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 14,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 85.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 33.7,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureSizeMeters" : 1.0,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 0,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "uv" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Gold Leaf",
+                            "author_text" : "by DJ SOLANA",
+                            "quality" : "9"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "a6503079-adf1-4636-8d14-3f7e44b984c0" : {
+                        "thumbnail" : "thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.512x512_q85_crop-%2C.png.webp",
+                        "thumbnail_small" : "thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.256x256_q85_crop-%2C.png.webp",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/44babbfa-fab1-4767-8584-69821344f68e/",
+                        "id" : "44babbfa-fab1-4767-8584-69821344f68e",
+                        "assetBaseId" : "a6503079-adf1-4636-8d14-3f7e44b984c0",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "71119",
+                            "firstName" : "Hs",
+                            "lastName" : "3D",
+                            "gravatarHash" : "facdd4a90f4770d68e7ded1eb6853956",
+                            "avatar128" : "/avatar-redirect/c2cf5e30-431c-47b5-a2db-46060ff0c180/128/",
+                            "aboutMe" : "I like to make fantastic , realistic 3D models and make it easier for use.",
+                            "aboutMeUrl" : "https://www.cgtrader.com/hs-3d",
+                            "app_id" : 23104,
+                            "tooltip" : "Hs 3D\n\nI like to make fantastic , realistic 3D models and make it easier for use.\n",
+                            "gravatarImg" : "C:\\Users\\tmmin\\AppData\\Local\\Temp\\bkit_temp\\bkit_g\\71119.jpg"
+                        },
+                        "name" : "Gold pile",
+                        "displayName" : "Gold pile",
+                        "description" : "pbr material of  Gold pile. Download higher quality at   https://www.cgtrader.com/hs-3d",
+                        "assetType" : "material",
+                        "category" : "metal",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "gold",
+                            "metal",
+                            "metallic",
+                            "bank",
+                            "ealth",
+                            "metarial",
+                            "golden",
+                            "shine",
+                            "shining",
+                            "bank",
+                            "pile"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.0.0",
+                        "addonVersion" : "3.0.0",
+                        "created" : "2021-12-03T22:28:13.887019+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/89559/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/94079/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/94078/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/44babbfafab14767858469821344f68e/files/resolution_1K_da338731-575f-4481-b026-1e34b5f635c4.blend",
+                                "file_name" : "resolution_1K_da338731-575f-4481-b026-1e34b5f635c4.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/89489/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 1255,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.2048x2048_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.256x256_q85_crop-%2C.png.webp?webp_generated=1638622494",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.512x512_q85_crop-%2C.png.webp?webp_generated=1638622494",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1638622494",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1638622494",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.256x256_q85.png.webp?webp_generated=1638622494",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.512x512_q85.png.webp?webp_generated=1638622494",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.1024x1024_q85.png.webp?webp_generated=1638622494",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/44babbfafab14767858469821344f68e/files/thumbnail_5578e49e-133f-465a-ac92-119a29d24ac1.png.2048x2048_q85.png.webp?webp_generated=1638622494",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1638622494,
+                        "score" : 240.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 8.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 3.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 8.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 3.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 2,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 1,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 16.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 3.0,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 1024,
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 0,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 1,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 1024,
+                            "nodeCount" : 16,
+                            "textureCount" : 6,
+                            "megapixels" : 6
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024
+                        ],
+                        "max_resolution" : 1024,
+                        "tooltip_data" : {
+                            "aname" : "Gold pile",
+                            "author_text" : "by Hs 3D",
+                            "quality" : "8"
+                        },
+                        "resolution" : "resolution_1K"
+                    }
+                },
+                "uuid" : "fe8ec76c-5c1f-4726-b4be-8262549f0f7b",
+                "sun_pos_properties" : {
+                    "day_of_year" : 73,
+                    "sun_object" : {},
+                    "object_collection" : {}
+                },
+                "assets reported" : {}
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 0
+                }
+            },
+            "name" : "Light",
+            "rotation" : [
+                -0.28416627645492554,
+                0.7269423007965088,
+                0.34203392267227173,
+                0.5232754945755005
+            ],
+            "translation" : [
+                4.076245307922363,
+                5.903861999511719,
+                -1.0054539442062378
+            ]
+        },
+        {
+            "camera" : 0,
+            "name" : "Camera",
+            "rotation" : [
+                -0.20997299253940582,
+                0.3857799470424652,
+                0.09062844514846802,
+                0.8937962055206299
+            ],
+            "translation" : [
+                7.358891487121582,
+                4.958309173583984,
+                6.925790786743164
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "imagetostl_mesh0",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "scale" : [
+                0.03594284504652023,
+                0.03594284504652023,
+                0.03594284504652023
+            ],
+            "translation" : [
+                0,
+                1.9011167287826538,
+                0
+            ]
+        }
+    ],
+    "cameras" : [
+        {
+            "name" : "Camera",
+            "perspective" : {
+                "aspectRatio" : 1.7777777777777777,
+                "yfov" : 0.39959652046304894,
+                "zfar" : 100,
+                "znear" : 0.10000000149011612
+            },
+            "type" : "perspective"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extras" : {
+                "blenderkit" : {
+                    "category" : 16,
+                    "name" : "Fine Gold",
+                    "name_changed" : 0,
+                    "name_old" : "Fine Gold",
+                    "description" : "With Small amount of scratches",
+                    "tags" : "gold,metal",
+                    "thumbnail" : "//Fine Gold.png",
+                    "has_thumbnail" : 1,
+                    "thumbnail_generating_state" : "",
+                    "texture_count" : 0,
+                    "node_count" : 10,
+                    "total_megapixels" : 0,
+                    "is_procedural" : 1,
+                    "shaders" : "principled, ",
+                    "style" : 0,
+                    "texture_resolution_max" : 0,
+                    "texture_resolution_min" : 0,
+                    "upload_state" : "preparing upload",
+                    "report" : "",
+                    "asset_base_id" : "e8cb5c53-ad42-42e1-9341-06751bf3aff2",
+                    "id" : "8246bfd8-33ff-4754-b63b-14589811930b",
+                    "uploading" : 0,
+                    "thumbnail_resolution" : 2,
+                    "thumbnail_generator_type" : 1,
+                    "is_generating_thumbnail" : 0
+                },
+                "asset_data" : {
+                    "thumbnail" : "thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85_crop-%2C.png.webp",
+                    "thumbnail_small" : "thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85_crop-%2C.png.webp",
+                    "downloaded" : 100,
+                    "texture_size_meters" : 1.0,
+                    "url" : "https://www.blenderkit.com/api/v1/assets/8246bfd8-33ff-4754-b63b-14589811930b/",
+                    "id" : "8246bfd8-33ff-4754-b63b-14589811930b",
+                    "assetBaseId" : "e8cb5c53-ad42-42e1-9341-06751bf3aff2",
+                    "versionNumber" : 1,
+                    "author" : {
+                        "id" : "42913",
+                        "firstName" : "Nobody",
+                        "lastName" : "",
+                        "gravatarHash" : "823d05a61b2fa0dd7c17a66de7198da5",
+                        "avatar128" : "/avatar-redirect/b8598a7e-0182-40e5-8f82-b6cfa582af85/128/",
+                        "aboutMe" : "Mostly i do interior stuff\r\n\r\nYou can contact me here: lukaspistek666@gmail.com",
+                        "aboutMeUrl" : "https://www.deviantart.com/relev4nt"
+                    },
+                    "name" : "Fine Gold",
+                    "displayName" : "Fine Gold",
+                    "description" : "With Small amount of scratches",
+                    "assetType" : "material",
+                    "category" : "metal",
+                    "adult" : 0,
+                    "isFree" : 1,
+                    "tags" : [
+                        "gold",
+                        "metal"
+                    ],
+                    "license" : "royalty_free",
+                    "sourceAppName" : "blender",
+                    "sourceAppVersion" : "2.91.0",
+                    "addonVersion" : "1.0.32",
+                    "created" : "2020-10-28T12:23:10.868390+01:00",
+                    "verificationStatus" : "validated",
+                    "isPrivate" : 0,
+                    "files" : [
+                        {
+                            "fileType" : "blend",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/26385/",
+                            "fileThumbnail" : null,
+                            "fileThumbnailLarge" : null,
+                            "url" : "https://public.blenderkit.com/public-assets/assets/8246bfd833ff4754b63b14589811930b/files/blend_7719c56c-4244-4226-aa4a-80122ab5aef2.blend",
+                            "file_name" : "blend_7719c56c-4244-4226-aa4a-80122ab5aef2.blend"
+                        },
+                        {
+                            "fileType" : "thumbnail",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/26384/",
+                            "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.96x96_q85_crop-%2C.png",
+                            "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85_crop-%2C.png"
+                        }
+                    ],
+                    "filesSize" : 61,
+                    "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85_crop-%2C.png",
+                    "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85_crop-%2C.png",
+                    "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85_crop-%2C.png",
+                    "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85_crop-%2C.png",
+                    "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85.png",
+                    "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85.png",
+                    "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85.png",
+                    "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85.png",
+                    "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                    "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                    "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                    "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1608287797",
+                    "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.256x256_q85.png.webp?webp_generated=1608287797",
+                    "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.512x512_q85.png.webp?webp_generated=1608287797",
+                    "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.1024x1024_q85.png.webp?webp_generated=1608287797",
+                    "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/8246bfd833ff4754b63b14589811930b/files/thumbnail_8a751381-5b5a-4417-928a-2e69e5c0e59a.png.2048x2048_q85.png.webp?webp_generated=1608287797",
+                    "showMarketingLabels" : 1,
+                    "webpGeneratedTimestamp" : 1608287797,
+                    "score" : 369.4117647058823,
+                    "ratingsMedian" : {
+                        "competition-2022-votes" : null,
+                        "quality" : 10.0,
+                        "virtualPrice" : null,
+                        "complexity" : null,
+                        "virtualPriceAdmin" : null,
+                        "complexityAdmin" : null,
+                        "workingHours" : 4.0,
+                        "bookmarks" : null
+                    },
+                    "ratingsAverage" : {
+                        "competition-2022-votes" : null,
+                        "quality" : 9.235294117647058,
+                        "virtualPrice" : null,
+                        "complexity" : null,
+                        "virtualPriceAdmin" : null,
+                        "complexityAdmin" : null,
+                        "workingHours" : 4.0,
+                        "bookmarks" : null
+                    },
+                    "ratingsCount" : {
+                        "competition-2022-votes" : 0,
+                        "quality" : 17,
+                        "virtualPrice" : 0,
+                        "complexity" : 0,
+                        "virtualPriceAdmin" : 0,
+                        "complexityAdmin" : 0,
+                        "workingHours" : 19,
+                        "bookmarks" : 0
+                    },
+                    "ratingsSum" : {
+                        "competition-2022-votes" : null,
+                        "quality" : 157.0,
+                        "virtualPrice" : null,
+                        "complexity" : null,
+                        "virtualPriceAdmin" : null,
+                        "complexityAdmin" : null,
+                        "workingHours" : 63.699999999999996,
+                        "bookmarks" : null
+                    },
+                    "dictParameters" : {
+                        "textureSizeMeters" : 1.0,
+                        "procedural" : 1,
+                        "materialStyle" : "realistic",
+                        "purePbr" : 0,
+                        "engine" : "cycles",
+                        "shaders" : [
+                            "principled"
+                        ],
+                        "animated" : 0,
+                        "uv" : 0,
+                        "nodeCount" : 10,
+                        "textureCount" : 0,
+                        "megapixels" : 0
+                    },
+                    "canDownload" : 1,
+                    "canDownloadError" : 1,
+                    "available_resolutions" : [],
+                    "max_resolution" : 0,
+                    "tooltip_data" : {
+                        "aname" : "Fine Gold",
+                        "author_text" : "by Nobody ",
+                        "quality" : "9"
+                    },
+                    "resolution" : "resolution_2K"
+                },
+                "pov" : {}
+            },
+            "name" : "Fine Gold",
+            "pbrMetallicRoughness" : {
+                "roughnessFactor" : 0.040909089148044586
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "imagetostl_mesh0",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "TEXCOORD_0" : 1,
+                        "NORMAL" : 2
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 0,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "TEXCOORD_0" : 1,
+                                "NORMAL" : 2
+                            }
+                        }
+                    },
+                    "indices" : 3,
+                    "material" : 0,
+                    "mode" : 4
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "componentType" : 5126,
+            "count" : 144557,
+            "max" : [
+                50.29673767089844,
+                4.490196228027344,
+                66.66666412353516
+            ],
+            "min" : [
+                -50,
+                -5,
+                -61.03703308105469
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 144557,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 144557,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5125,
+            "count" : 572997,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 627147,
+            "byteOffset" : 0
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 627148,
+            "uri" : "wjh.bin"
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.4.50",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_draco_mesh_compression"
+    ],
+    "extensionsRequired" : [
+        "KHR_draco_mesh_compression"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "coat3D" : {},
+                "assets used" : {
+                    "c8b20e1d-d182-4f76-9d95-b5f2507a2262" : {
+                        "thumbnail" : "thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.512x512_q85_crop-%2C.png.webp",
+                        "thumbnail_small" : "thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.256x256_q85_crop-%2C.png.webp",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.0765,
+                            -0.1503,
+                            0.0
+                        ],
+                        "bbox_max" : [
+                            0.0765,
+                            0.0,
+                            0.1852
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/d5a53185-da5c-4326-a1cb-86038c71f127/",
+                        "id" : "d5a53185-da5c-4326-a1cb-86038c71f127",
+                        "assetBaseId" : "c8b20e1d-d182-4f76-9d95-b5f2507a2262",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "11416",
+                            "firstName" : "John",
+                            "lastName" : "Rock",
+                            "gravatarHash" : "afa72d72cc425dd4b71c7ac943f78a4d",
+                            "avatar128" : "/avatar-redirect/8227ad3a-2b6e-429f-a75b-000d28c48ee4/128/",
+                            "aboutMe" : "",
+                            "aboutMeUrl" : "https://www.behance.net/giannisgalatsis"
+                        },
+                        "name" : "Globe Decor",
+                        "displayName" : "Globe Decor",
+                        "description" : "decor globe",
+                        "assetType" : "model",
+                        "category" : "art",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "globe. earth",
+                            "decor",
+                            "decoration",
+                            "office",
+                            "living room",
+                            "wooden",
+                            "non-manifold",
+                            "uv",
+                            "globe"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.82.7",
+                        "addonVersion" : "1.0.30",
+                        "created" : "2020-06-13T21:30:59.667418+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/19560/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/34880/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/34879/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/34877/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/d5a53185da5c4326a1cb86038c71f127/files/resolution_2K_7e8accc2-21a0-4f1b-9e71-5b743a06af45.blend",
+                                "file_name" : "resolution_2K_7e8accc2-21a0-4f1b-9e71-5b743a06af45.blend"
+                            },
+                            {
+                                "fileType" : "resolution_4K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/34875/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/19559/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 4704,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.2048x2048_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.256x256_q85_crop-%2C.png.webp?webp_generated=1657578339",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.512x512_q85_crop-%2C.png.webp?webp_generated=1657578339",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1657578339",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1657578339",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.256x256_q85.png.webp?webp_generated=1657578339",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.512x512_q85.png.webp?webp_generated=1657578339",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.1024x1024_q85.png.webp?webp_generated=1657578339",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/d5a53185da5c4326a1cb86038c71f127/files/thumbnail_e7d25017-3a84-4b24-90ef-a4c837de8c05.png.2048x2048_q85.png.webp?webp_generated=1657578339",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1657578339,
+                        "score" : 210.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 3.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 4.5,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 4.666666666666667,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 4.5,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 3,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 2,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 14.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 9.0,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 8192,
+                            "faceCount" : 862,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "condition" : "new",
+                            "designYear" : 2020,
+                            "purePbr" : 0,
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "uv" : 1,
+                            "textureResolutionMin" : 1024,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "bevel",
+                                "subsurf"
+                            ],
+                            "materials" : [
+                                "Globe-Base-Wood",
+                                "Globe-Rough-Gold",
+                                "Globe"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.153,
+                            "dimensionY" : 0.1503,
+                            "dimensionZ" : 0.1852,
+                            "boundBoxMinX" : -0.0765,
+                            "boundBoxMinY" : -0.1503,
+                            "boundBoxMinZ" : 0.0,
+                            "boundBoxMaxX" : 0.0765,
+                            "boundBoxMaxY" : 0.0,
+                            "boundBoxMaxZ" : 0.1852,
+                            "faceCountRender" : 13792,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 4,
+                            "nodeCount" : 25,
+                            "textureCount" : 6,
+                            "megapixels" : 39
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048,
+                            4096
+                        ],
+                        "max_resolution" : 4096,
+                        "tooltip_data" : {
+                            "aname" : "Globe Decor",
+                            "author_text" : "by John Rock",
+                            "quality" : "5"
+                        },
+                        "resolution" : "resolution_2K"
+                    }
+                },
+                "uuid" : "42cfc82b-9945-4039-be66-353ad9fa32ab"
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extras" : {
+                "hops" : {},
+                "ant_landscape" : {}
+            },
+            "mesh" : 0,
+            "name" : "Sphere",
+            "scale" : [
+                21.551532745361328,
+                21.551528930664062,
+                21.551532745361328
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extras" : {
+                "pmc_matprops" : {},
+                "blenderkit" : {}
+            },
+            "name" : "Globe",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 1
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "TEXCOORD_0" : 1,
+                        "NORMAL" : 2
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 0,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "TEXCOORD_0" : 1,
+                                "NORMAL" : 2
+                            }
+                        }
+                    },
+                    "indices" : 3,
+                    "material" : 0,
+                    "mode" : 4
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "8k_earth_daymap",
+            "uri" : "8k_earth_daymap.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Wood_011_roughness",
+            "uri" : "Wood_011_roughness.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "componentType" : 5126,
+            "count" : 559,
+            "max" : [
+                0.056472696363925934,
+                0.07114905118942261,
+                0.061422303318977356
+            ],
+            "min" : [
+                -0.06092303246259689,
+                -0.04624663293361664,
+                -0.05597338080406189
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 559,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 559,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 2880,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 3414,
+            "byteOffset" : 0
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 3416,
+            "uri" : "glob.bin"
+        }
+    ]
+}

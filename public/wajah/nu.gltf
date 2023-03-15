@@ -1,0 +1,1483 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.4.50",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_draco_mesh_compression",
+        "KHR_lights_punctual",
+        "KHR_texture_transform",
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+    ],
+    "extensionsRequired" : [
+        "KHR_draco_mesh_compression",
+        "KHR_lights_punctual",
+        "KHR_texture_transform"
+    ],
+    "extensions" : {
+        "KHR_lights_punctual" : {
+            "lights" : [
+                {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 54351.41306588226,
+                    "type" : "point",
+                    "name" : "Light"
+                }
+            ]
+        }
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "coat3D" : {
+                    "exchangeFolder" : ""
+                },
+                "sun_pos_properties" : {
+                    "day_of_year" : 73,
+                    "sun_object" : {},
+                    "object_collection" : {}
+                },
+                "assets used" : {
+                    "6060315f-f477-4ff1-9379-e298d7faf9f0" : {
+                        "thumbnail" : "thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.512x512_q85_crop-%2C.jpg.webp",
+                        "thumbnail_small" : "thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.256x256_q85_crop-%2C.jpg.webp",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -1.3175,
+                            -0.7533,
+                            0.0
+                        ],
+                        "bbox_max" : [
+                            1.3175,
+                            0.7533,
+                            0.05
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/ba8e7426-c272-4286-bab4-60cca9d601db/",
+                        "id" : "ba8e7426-c272-4286-bab4-60cca9d601db",
+                        "assetBaseId" : "6060315f-f477-4ff1-9379-e298d7faf9f0",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "2474",
+                            "firstName" : "jhon",
+                            "lastName" : "maycon",
+                            "gravatarHash" : "004f246a58ce9f3d42883336eeaff7bd",
+                            "avatar128" : "/avatar-redirect/755e6b4c-16c1-41c4-8f46-4f6bd81e0dc9/128/",
+                            "aboutMe" : "I work with 3D by rob which is becoming more and more present in my professional life, thanks to Blender 3D.",
+                            "aboutMeUrl" : "https://www.behance.net/JhonMaycon",
+                            "app_id" : 2220,
+                            "tooltip" : "jhon maycon\n\nI work with 3D by rob which is becoming more and more present in my professional life, thanks to Blender 3D.\n",
+                            "gravatarImg" : "C:\\Users\\tmmin\\AppData\\Local\\Temp\\bkit_temp\\bkit_g\\2474.jpg"
+                        },
+                        "name" : "Mosaic painting",
+                        "displayName" : "mosaic frame",
+                        "description" : "The decorative frame is the best choice for those who want to change the face of a room in the house without spending too much and without taking up space. The decoration of the environment that thinks of the walls as the best way to give personality to the environments of a home, uses tools such as the mosaic frame as a key piece.",
+                        "assetType" : "model",
+                        "category" : "painting",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Decoration",
+                            "decorative objects",
+                            "Mosaic painting",
+                            "paint",
+                            "sala",
+                            "paredes",
+                            "mosaico"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.79.7",
+                        "addonVersion" : "0.4.18",
+                        "created" : "2019-08-16T16:49:10.618926+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/7542/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/ba8e7426c2724286bab460cca9d601db/files/blend_e58205a2-fc82-43fa-8a20-5fef1892dcfe.blend",
+                                "file_name" : "blend_e58205a2-fc82-43fa-8a20-5fef1892dcfe.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/7541/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.96x96_q85_crop-%2C.jpg",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.1024x1024_q85_crop-%2C.jpg"
+                            }
+                        ],
+                        "filesSize" : 376,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.256x256_q85_crop-%2C.jpg",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.2048x2048_q85_crop-%2C.jpg",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.256x256_q85.jpg",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.512x512_q85.jpg",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.1024x1024_q85.jpg",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.2048x2048_q85.jpg",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1665553834",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1665553834",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1665553834",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1665553834",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.256x256_q85.jpg.webp?webp_generated=1665553834",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.512x512_q85.jpg.webp?webp_generated=1665553834",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.1024x1024_q85.jpg.webp?webp_generated=1665553834",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/ba8e7426c2724286bab460cca9d601db/files/thumbnail_dd4f2912-7a20-497c-bea1-b8c402205345.jpg.2048x2048_q85.jpg.webp?webp_generated=1665553834",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1665553834,
+                        "score" : 322.5833333333333,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 3.95,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 8.166666666666666,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 3.95,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 6,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 4,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 49.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 259.9,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 800,
+                            "faceCount" : 490,
+                            "productionLevel" : "finished",
+                            "modelStyle" : "realistic",
+                            "condition" : "new",
+                            "purePbr" : 0,
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "uv" : 1,
+                            "textureResolutionMin" : 462,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                ""
+                            ],
+                            "materials" : [
+                                "Quadro material",
+                                "Quadro base cor"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 2.635,
+                            "dimensionY" : 1.5067,
+                            "dimensionZ" : 0.05,
+                            "boundBoxMinX" : -1.3175,
+                            "boundBoxMinY" : -0.7533,
+                            "boundBoxMinZ" : 0.0,
+                            "boundBoxMaxX" : 1.3175,
+                            "boundBoxMaxY" : 0.7533,
+                            "boundBoxMaxZ" : 0.05,
+                            "faceCountRender" : 490,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 1,
+                            "objectCount" : 1
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Mosaic frame",
+                            "author_text" : "by jhon maycon",
+                            "quality" : "8"
+                        },
+                        "resolution" : "blend"
+                    },
+                    "0a0b31fd-d590-4e55-a02f-87edd2fb851a" : {
+                        "thumbnail" : "thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.512x512_q85_crop-%2C.jpg.webp",
+                        "thumbnail_small" : "thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.256x256_q85_crop-%2C.jpg.webp",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.0816,
+                            -0.0587,
+                            -0.0002
+                        ],
+                        "bbox_max" : [
+                            0.0816,
+                            0.0368,
+                            0.2568
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/deaa9376-03c7-4c27-81bc-92097b06441f/",
+                        "id" : "deaa9376-03c7-4c27-81bc-92097b06441f",
+                        "assetBaseId" : "0a0b31fd-d590-4e55-a02f-87edd2fb851a",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "50096",
+                            "firstName" : "Rex",
+                            "lastName" : "Hans",
+                            "gravatarHash" : "879ae61bc7c2035b62da4647cc0c59db",
+                            "avatar128" : "/avatar-redirect/7daab3ab-ad25-4c07-a14d-dfe5832c56c8/128/",
+                            "aboutMe" : "Hello! Big thanks to blenderkit! Blending with them is so much fun!",
+                            "aboutMeUrl" : "https://sites.google.com/view/rexhanscreations/home"
+                        },
+                        "name" : "Desk Picture Frame",
+                        "displayName" : "Desk Picture Frame",
+                        "description" : "Picture frame for desk, Free for all. Enjoy!",
+                        "assetType" : "model",
+                        "category" : "painting",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Picture Frame",
+                            "Frame",
+                            "Picture",
+                            "Painting",
+                            "Drawing",
+                            "Wall Picture",
+                            "Design"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.1.0",
+                        "addonVersion" : "3.1.3",
+                        "created" : "2022-06-03T01:57:31.316811+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/116956/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/121295/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/121294/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/121293/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/deaa937603c74c2781bc92097b06441f/files/resolution_2K_e464b9c7-e6ac-4ef2-a99e-f408d2ed336e.blend",
+                                "file_name" : "resolution_2K_e464b9c7-e6ac-4ef2-a99e-f408d2ed336e.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/116953/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.96x96_q85_crop-%2C.jpg",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.1024x1024_q85_crop-%2C.jpg"
+                            }
+                        ],
+                        "filesSize" : 52268,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.256x256_q85_crop-%2C.jpg",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.2048x2048_q85_crop-%2C.jpg",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.256x256_q85.jpg",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.512x512_q85.jpg",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.1024x1024_q85.jpg",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.2048x2048_q85.jpg",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1656430544",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1656430544",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1656430544",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1656430544",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.256x256_q85.jpg.webp?webp_generated=1656430544",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.512x512_q85.jpg.webp?webp_generated=1656430544",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.1024x1024_q85.jpg.webp?webp_generated=1656430544",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/deaa937603c74c2781bc92097b06441f/files/thumbnail_25d60214-81f1-45d4-9418-ebcf2f19031f.jpg.2048x2048_q85.jpg.webp?webp_generated=1656430544",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1656430544,
+                        "score" : 75.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 5.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 1.5,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 5.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 1.5,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 2,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 2,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 3.0,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 2048,
+                            "faceCount" : 151,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "condition" : "new",
+                            "designYear" : 2022,
+                            "purePbr" : 1,
+                            "shaders" : [
+                                "principled",
+                                "mix shader",
+                                "glass",
+                                "transparent"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 564,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "solidify",
+                                "bevel",
+                                "weighted normal"
+                            ],
+                            "materials" : [
+                                "Metal",
+                                "pf_Oriented strand board",
+                                "pf_Old Wood",
+                                "pf_Plastic",
+                                "pf_Glass",
+                                "pf_Pic"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.1632,
+                            "dimensionY" : 0.0955,
+                            "dimensionZ" : 0.2569,
+                            "boundBoxMinX" : -0.0816,
+                            "boundBoxMinY" : -0.0587,
+                            "boundBoxMinZ" : -0.0002,
+                            "boundBoxMaxX" : 0.0816,
+                            "boundBoxMaxY" : 0.0368,
+                            "boundBoxMaxZ" : 0.2568,
+                            "faceCountRender" : 165,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 9,
+                            "nodeCount" : 75,
+                            "textureCount" : 10,
+                            "megapixels" : 19
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048
+                        ],
+                        "max_resolution" : 2048,
+                        "tooltip_data" : {
+                            "aname" : "Desk Picture Frame",
+                            "author_text" : "by Rex Hans",
+                            "quality" : "5"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "000f4ab9-12f8-4cb8-8f32-3063f2b9fe9e" : {
+                        "thumbnail" : "thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85_crop-%2C.png.webp",
+                        "thumbnail_small" : "thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85_crop-%2C.png.webp",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.5701,
+                            -0.5702,
+                            0.0
+                        ],
+                        "bbox_max" : [
+                            0.5702,
+                            0.5701,
+                            0.0825
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/01ed9cc4-1970-4009-bcb4-daa29c6ac4ef/",
+                        "id" : "01ed9cc4-1970-4009-bcb4-daa29c6ac4ef",
+                        "assetBaseId" : "000f4ab9-12f8-4cb8-8f32-3063f2b9fe9e",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "156012",
+                            "firstName" : "Mikhail",
+                            "lastName" : "Zabolotny",
+                            "gravatarHash" : "b921533d6bf4fa302e4c051098632416",
+                            "avatar128" : "/avatar-redirect/d7cde77d-d85b-4557-9cb5-29411aa1d4b7/128/",
+                            "aboutMe" : "",
+                            "aboutMeUrl" : "https://www.artstation.com/johnnyyy",
+                            "app_id" : 2220,
+                            "tooltip" : "Mikhail Zabolotny\n\n",
+                            "gravatarImg" : "C:\\Users\\tmmin\\AppData\\Local\\Temp\\bkit_temp\\bkit_g\\156012.jpg"
+                        },
+                        "name" : "Picture",
+                        "displayName" : "Picture",
+                        "description" : "An antique painting that is perfect for a vintage-style interior.Made in collaboration with the famous artist 4our me.",
+                        "assetType" : "model",
+                        "category" : "painting",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Wooden",
+                            "Glass",
+                            "Painting",
+                            "Frame",
+                            "Baroque",
+                            "Wood",
+                            "Patterns",
+                            "Vintage",
+                            "Old",
+                            "Interior",
+                            "Decor",
+                            "Metal",
+                            "Orange",
+                            "Black",
+                            "White",
+                            "Brown",
+                            "frame"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.3.3",
+                        "addonVersion" : "3.3.2",
+                        "created" : "2023-01-17T19:56:26.811065+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169574/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169904/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169903/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169902/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/resolution_2K_06beb373-a0c5-4a4e-984c-444ded96d9b3.blend",
+                                "file_name" : "resolution_2K_06beb373-a0c5-4a4e-984c-444ded96d9b3.blend"
+                            },
+                            {
+                                "fileType" : "resolution_4K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169901/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169573/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 91054,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85.png.webp?webp_generated=1674146491",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85.png.webp?webp_generated=1674146491",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85.png.webp?webp_generated=1674146491",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85.png.webp?webp_generated=1674146491",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1674146491,
+                        "score" : 2730.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 10.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 28.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 9.75,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 28.0,
+                            "bookmarks" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "quality" : 4,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0,
+                            "workingHours" : 4,
+                            "bookmarks" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "quality" : 39.0,
+                            "virtualPrice" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "complexityAdmin" : null,
+                            "workingHours" : 110.0,
+                            "bookmarks" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 4096,
+                            "faceCount" : 213248,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "condition" : "old",
+                            "purePbr" : 1,
+                            "shaders" : [
+                                "principled",
+                                "glass",
+                                "mix shader",
+                                "transparent"
+                            ],
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 2048,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "weighted normal"
+                            ],
+                            "materials" : [
+                                "wood",
+                                "Glass",
+                                "art",
+                                "Metal",
+                                "Gold"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 1.1403,
+                            "dimensionY" : 1.1403,
+                            "dimensionZ" : 0.0825,
+                            "boundBoxMinX" : -0.5701,
+                            "boundBoxMinY" : -0.5702,
+                            "boundBoxMinZ" : 0.0,
+                            "boundBoxMaxX" : 0.5702,
+                            "boundBoxMaxY" : 0.5701,
+                            "boundBoxMaxZ" : 0.0825,
+                            "faceCountRender" : 213248,
+                            "meshPolyType" : "tri_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 1,
+                            "nodeCount" : 36,
+                            "textureCount" : 7,
+                            "megapixels" : 93
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048,
+                            4096
+                        ],
+                        "max_resolution" : 4096,
+                        "tooltip_data" : {
+                            "aname" : "Picture",
+                            "author_text" : "by Mikhail Zabolotny",
+                            "quality" : "10"
+                        },
+                        "resolution" : "resolution_2K"
+                    }
+                },
+                "uuid" : "1bd437be-b89b-4174-b636-a2e6cc9c886f"
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 0
+                }
+            },
+            "name" : "Light",
+            "rotation" : [
+                -0.28416627645492554,
+                0.7269423007965088,
+                0.34203392267227173,
+                0.5232754945755005
+            ],
+            "translation" : [
+                4.076245307922363,
+                5.903861999511719,
+                -1.0054539442062378
+            ]
+        },
+        {
+            "camera" : 0,
+            "name" : "Camera",
+            "rotation" : [
+                -0.20997299253940582,
+                0.3857799470424652,
+                0.09062844514846802,
+                0.8937962055206299
+            ],
+            "translation" : [
+                7.358891487121582,
+                4.958309173583984,
+                6.925790786743164
+            ]
+        },
+        {
+            "extras" : {
+                "blenderkit" : {
+                    "name" : "Picture",
+                    "name_changed" : 1,
+                    "name_old" : "Picture",
+                    "pbr" : 1,
+                    "work_hours" : 10.0,
+                    "condition" : 3,
+                    "category" : 2,
+                    "subcategory" : 16,
+                    "thumbnail" : "//..\\..\\..\\afafyafay.png",
+                    "has_thumbnail" : 1,
+                    "thumbnail_generating_state" : "",
+                    "description" : "An antique painting that is perfect for a vintage-style interior.Made in collaboration with the famous artist 4our me.",
+                    "tags" : "Wooden,Glass,Glass,Painting,Frame,Baroque,Wood,Patterns,Painting,Vintage,Old,Vintage,Interior,Decor,Metal,Metal,Orange,Black,White,Brown",
+                    "texture_resolution_max" : 4096,
+                    "texture_resolution_min" : 2048,
+                    "uv" : 1,
+                    "texture_count" : 7,
+                    "total_megapixels" : 93,
+                    "node_count" : 36,
+                    "engine" : 0,
+                    "is_procedural" : 0,
+                    "materials" : "wood, Glass, art, Metal, Gold, ",
+                    "shaders" : "principled, glass, mix shader, transparent, ",
+                    "dimensions" : [
+                        1.1402932405471802,
+                        1.1402909755706787,
+                        0.08247830718755722
+                    ],
+                    "bbox_min" : [
+                        -0.5701161623001099,
+                        -0.5701526999473572,
+                        -5.239307938609272e-06
+                    ],
+                    "bbox_max" : [
+                        0.5701770782470703,
+                        0.5701382160186768,
+                        0.08247306942939758
+                    ],
+                    "face_count" : 213248,
+                    "face_count_render" : 213248,
+                    "mesh_poly_type" : 2,
+                    "manifold" : 0,
+                    "modifiers" : "weighted normal,",
+                    "object_count" : 1,
+                    "upload_state" : "Starting upload. Please don't close Blender until upload finishes",
+                    "report" : "",
+                    "asset_base_id" : "000f4ab9-12f8-4cb8-8f32-3063f2b9fe9e",
+                    "id" : "01ed9cc4-1970-4009-bcb4-daa29c6ac4ef",
+                    "uploading" : 0
+                },
+                "asset_data" : {
+                    "thumbnail" : "thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85_crop-%2C.png.webp",
+                    "thumbnail_small" : "thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85_crop-%2C.png.webp",
+                    "downloaded" : 0,
+                    "bbox_min" : [
+                        -0.5701,
+                        -0.5702,
+                        0.0
+                    ],
+                    "bbox_max" : [
+                        0.5702,
+                        0.5701,
+                        0.0825
+                    ],
+                    "url" : "https://www.blenderkit.com/api/v1/assets/01ed9cc4-1970-4009-bcb4-daa29c6ac4ef/",
+                    "id" : "01ed9cc4-1970-4009-bcb4-daa29c6ac4ef",
+                    "assetBaseId" : "000f4ab9-12f8-4cb8-8f32-3063f2b9fe9e",
+                    "versionNumber" : 1,
+                    "author" : {
+                        "id" : "156012",
+                        "firstName" : "Mikhail",
+                        "lastName" : "Zabolotny",
+                        "gravatarHash" : "b921533d6bf4fa302e4c051098632416",
+                        "avatar128" : "/avatar-redirect/d7cde77d-d85b-4557-9cb5-29411aa1d4b7/128/",
+                        "aboutMe" : "",
+                        "aboutMeUrl" : "https://www.artstation.com/johnnyyy",
+                        "app_id" : 2220,
+                        "tooltip" : "Mikhail Zabolotny\n\n",
+                        "gravatarImg" : "C:\\Users\\tmmin\\AppData\\Local\\Temp\\bkit_temp\\bkit_g\\156012.jpg"
+                    },
+                    "name" : "Picture",
+                    "displayName" : "Picture",
+                    "description" : "An antique painting that is perfect for a vintage-style interior.Made in collaboration with the famous artist 4our me.",
+                    "assetType" : "model",
+                    "category" : "painting",
+                    "adult" : 0,
+                    "isFree" : 1,
+                    "tags" : [
+                        "Wooden",
+                        "Glass",
+                        "Painting",
+                        "Frame",
+                        "Baroque",
+                        "Wood",
+                        "Patterns",
+                        "Vintage",
+                        "Old",
+                        "Interior",
+                        "Decor",
+                        "Metal",
+                        "Orange",
+                        "Black",
+                        "White",
+                        "Brown",
+                        "frame"
+                    ],
+                    "license" : "royalty_free",
+                    "sourceAppName" : "blender",
+                    "sourceAppVersion" : "3.3.3",
+                    "addonVersion" : "3.3.2",
+                    "created" : "2023-01-17T19:56:26.811065+01:00",
+                    "verificationStatus" : "validated",
+                    "isPrivate" : 0,
+                    "files" : [
+                        {
+                            "fileType" : "blend",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169574/",
+                            "fileThumbnail" : null,
+                            "fileThumbnailLarge" : null
+                        },
+                        {
+                            "fileType" : "resolution_0_5K",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169904/",
+                            "fileThumbnail" : null,
+                            "fileThumbnailLarge" : null
+                        },
+                        {
+                            "fileType" : "resolution_1K",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169903/",
+                            "fileThumbnail" : null,
+                            "fileThumbnailLarge" : null
+                        },
+                        {
+                            "fileType" : "resolution_2K",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169902/",
+                            "fileThumbnail" : null,
+                            "fileThumbnailLarge" : null,
+                            "url" : "https://public.blenderkit.com/public-assets/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/resolution_2K_06beb373-a0c5-4a4e-984c-444ded96d9b3.blend",
+                            "file_name" : "resolution_2K_06beb373-a0c5-4a4e-984c-444ded96d9b3.blend"
+                        },
+                        {
+                            "fileType" : "resolution_4K",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169901/",
+                            "fileThumbnail" : null,
+                            "fileThumbnailLarge" : null
+                        },
+                        {
+                            "fileType" : "thumbnail",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/169573/",
+                            "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.96x96_q85_crop-%2C.png",
+                            "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85_crop-%2C.png"
+                        }
+                    ],
+                    "filesSize" : 91054,
+                    "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85_crop-%2C.png",
+                    "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85_crop-%2C.png",
+                    "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85_crop-%2C.png",
+                    "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85_crop-%2C.png",
+                    "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85.png",
+                    "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85.png",
+                    "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85.png",
+                    "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85.png",
+                    "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                    "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                    "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                    "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1674146491",
+                    "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.256x256_q85.png.webp?webp_generated=1674146491",
+                    "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.512x512_q85.png.webp?webp_generated=1674146491",
+                    "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.1024x1024_q85.png.webp?webp_generated=1674146491",
+                    "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/01ed9cc419704009bcb4daa29c6ac4ef/files/thumbnail_9af17682-3dc2-4877-af2f-e8eb756f5669.png.2048x2048_q85.png.webp?webp_generated=1674146491",
+                    "showMarketingLabels" : 1,
+                    "webpGeneratedTimestamp" : 1674146491,
+                    "score" : 2730.0,
+                    "ratingsMedian" : {
+                        "competition-2022-votes" : null,
+                        "quality" : 10.0,
+                        "virtualPrice" : null,
+                        "complexity" : null,
+                        "virtualPriceAdmin" : null,
+                        "complexityAdmin" : null,
+                        "workingHours" : 28.0,
+                        "bookmarks" : null
+                    },
+                    "ratingsAverage" : {
+                        "competition-2022-votes" : null,
+                        "quality" : 9.75,
+                        "virtualPrice" : null,
+                        "complexity" : null,
+                        "virtualPriceAdmin" : null,
+                        "complexityAdmin" : null,
+                        "workingHours" : 28.0,
+                        "bookmarks" : null
+                    },
+                    "ratingsCount" : {
+                        "competition-2022-votes" : 0,
+                        "quality" : 4,
+                        "virtualPrice" : 0,
+                        "complexity" : 0,
+                        "virtualPriceAdmin" : 0,
+                        "complexityAdmin" : 0,
+                        "workingHours" : 4,
+                        "bookmarks" : 0
+                    },
+                    "ratingsSum" : {
+                        "competition-2022-votes" : null,
+                        "quality" : 39.0,
+                        "virtualPrice" : null,
+                        "complexity" : null,
+                        "virtualPriceAdmin" : null,
+                        "complexityAdmin" : null,
+                        "workingHours" : 110.0,
+                        "bookmarks" : null
+                    },
+                    "dictParameters" : {
+                        "textureResolutionMax" : 4096,
+                        "faceCount" : 213248,
+                        "productionLevel" : "finished",
+                        "procedural" : 0,
+                        "modelStyle" : "realistic",
+                        "condition" : "old",
+                        "purePbr" : 1,
+                        "shaders" : [
+                            "principled",
+                            "glass",
+                            "mix shader",
+                            "transparent"
+                        ],
+                        "pbrType" : "metallic",
+                        "uv" : 1,
+                        "textureResolutionMin" : 2048,
+                        "engines" : [
+                            "cycles"
+                        ],
+                        "modifiers" : [
+                            "weighted normal"
+                        ],
+                        "materials" : [
+                            "wood",
+                            "Glass",
+                            "art",
+                            "Metal",
+                            "Gold"
+                        ],
+                        "rig" : 0,
+                        "simulation" : 0,
+                        "dimensionX" : 1.1403,
+                        "dimensionY" : 1.1403,
+                        "dimensionZ" : 0.0825,
+                        "boundBoxMinX" : -0.5701,
+                        "boundBoxMinY" : -0.5702,
+                        "boundBoxMinZ" : 0.0,
+                        "boundBoxMaxX" : 0.5702,
+                        "boundBoxMaxY" : 0.5701,
+                        "boundBoxMaxZ" : 0.0825,
+                        "faceCountRender" : 213248,
+                        "meshPolyType" : "tri_dominant",
+                        "manifold" : 0,
+                        "objectCount" : 1,
+                        "nodeCount" : 36,
+                        "textureCount" : 7,
+                        "megapixels" : 93
+                    },
+                    "canDownload" : 1,
+                    "canDownloadError" : 1,
+                    "available_resolutions" : [
+                        512,
+                        1024,
+                        2048,
+                        4096
+                    ],
+                    "max_resolution" : 4096,
+                    "tooltip_data" : {
+                        "aname" : "Picture",
+                        "author_text" : "by Mikhail Zabolotny",
+                        "quality" : "10"
+                    },
+                    "resolution" : "resolution_2K"
+                }
+            },
+            "mesh" : 0,
+            "name" : "Picture",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "scale" : [
+                3.9355337619781494,
+                3.9355337619781494,
+                5.031121253967285
+            ],
+            "translation" : [
+                0.03945523500442505,
+                2.5858850479125977,
+                -0.018349170684814453
+            ]
+        }
+    ],
+    "cameras" : [
+        {
+            "name" : "Camera",
+            "perspective" : {
+                "aspectRatio" : 1.7777777777777777,
+                "yfov" : 0.39959652046304894,
+                "zfar" : 100,
+                "znear" : 0.10000000149011612
+            },
+            "type" : "perspective"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "wood",
+            "normalTexture" : {
+                "index" : 0,
+                "scale" : 1.2000000476837158
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 2
+                }
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "name" : "Glass",
+            "pbrMetallicRoughness" : {}
+        },
+        {
+            "alphaMode" : "BLEND",
+            "doubleSided" : true,
+            "name" : "art",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 3
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "extras" : {
+                "blenderkit" : {
+                    "has_thumbnail" : 1,
+                    "thumbnail_generating_state" : ""
+                }
+            },
+            "name" : "Metal.001",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.08388902246952057,
+                    0.08388902246952057,
+                    0.08388902246952057,
+                    1
+                ],
+                "metallicRoughnessTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                0.5
+                            ],
+                            "scale" : [
+                                1,
+                                0.5
+                            ]
+                        }
+                    },
+                    "index" : 4
+                }
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_transmission" : {
+                    "transmissionFactor" : 0.32249999046325684
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "name" : "Gold",
+            "pbrMetallicRoughness" : {
+                "metallicFactor" : 0.2772727310657501,
+                "metallicRoughnessTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                0.5
+                            ],
+                            "scale" : [
+                                1,
+                                0.5
+                            ]
+                        }
+                    },
+                    "index" : 5
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Picture.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "TEXCOORD_0" : 1,
+                        "NORMAL" : 2
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 0,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "TEXCOORD_0" : 1,
+                                "NORMAL" : 2
+                            }
+                        }
+                    },
+                    "indices" : 3,
+                    "material" : 0,
+                    "mode" : 4
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "TEXCOORD_0" : 5,
+                        "NORMAL" : 6
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 1,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "TEXCOORD_0" : 1,
+                                "NORMAL" : 2
+                            }
+                        }
+                    },
+                    "indices" : 7,
+                    "material" : 1,
+                    "mode" : 4
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "TEXCOORD_0" : 9,
+                        "NORMAL" : 10
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 2,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "TEXCOORD_0" : 1,
+                                "NORMAL" : 2
+                            }
+                        }
+                    },
+                    "indices" : 11,
+                    "material" : 2,
+                    "mode" : 4
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "TEXCOORD_0" : 13,
+                        "NORMAL" : 14
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 3,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "TEXCOORD_0" : 1,
+                                "NORMAL" : 2
+                            }
+                        }
+                    },
+                    "indices" : 15,
+                    "material" : 3,
+                    "mode" : 4
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 16,
+                        "TEXCOORD_0" : 17,
+                        "NORMAL" : 18
+                    },
+                    "extensions" : {
+                        "KHR_draco_mesh_compression" : {
+                            "bufferView" : 4,
+                            "attributes" : {
+                                "POSITION" : 0,
+                                "TEXCOORD_0" : 1,
+                                "NORMAL" : 2
+                            }
+                        }
+                    },
+                    "indices" : 19,
+                    "material" : 4,
+                    "mode" : 4
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 1,
+            "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "DefaultMaterial_Normal",
+            "uri" : "DefaultMaterial_Normal.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "DefaultMaterial_BaseColor",
+            "uri" : "DefaultMaterial_BaseColor.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "DefaultMaterial_Metallic-DefaultMaterial_Roughness",
+            "uri" : "DefaultMaterial_Metallic-DefaultMaterial_Roughness.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "00415024",
+            "uri" : "00415024.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "wbhsch0v_2K_Roughness",
+            "uri" : "wbhsch0v_2K_Roughness.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "componentType" : 5126,
+            "count" : 64383,
+            "max" : [
+                0.5701770782470703,
+                0.08247306942939758,
+                0.5701526999473572
+            ],
+            "min" : [
+                -0.5701161623001099,
+                -5.239307938609272e-06,
+                -0.5701382160186768
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 64383,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 64383,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 177582,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 18594,
+            "max" : [
+                0.32824718952178955,
+                0.0357145294547081,
+                0.3282654285430908
+            ],
+            "min" : [
+                -0.32824718952178955,
+                0.029949216172099113,
+                -0.3282654881477356
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 18594,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 18594,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 65604,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4,
+            "max" : [
+                0.33021554350852966,
+                0.029833773151040077,
+                0.33021554350852966
+            ],
+            "min" : [
+                -0.33021554350852966,
+                0.02983364276587963,
+                -0.3302155137062073
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 6,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 61795,
+            "max" : [
+                0.09048107266426086,
+                0.07313725352287292,
+                0.394157350063324
+            ],
+            "min" : [
+                -0.09048116207122803,
+                0.07077668607234955,
+                0.36438649892807007
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 61795,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 61795,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5123,
+            "count" : 186303,
+            "type" : "SCALAR"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 400025,
+            "max" : [
+                0.07909522950649261,
+                0.0755741149187088,
+                0.4036123752593994
+            ],
+            "min" : [
+                -0.09392303973436356,
+                0.07306471467018127,
+                0.3533245325088501
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 400025,
+            "type" : "VEC2"
+        },
+        {
+            "componentType" : 5126,
+            "count" : 400025,
+            "type" : "VEC3"
+        },
+        {
+            "componentType" : 5125,
+            "count" : 582705,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 434513,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 88246,
+            "byteOffset" : 434516
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 166,
+            "byteOffset" : 522764
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 220293,
+            "byteOffset" : 522932
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1392716,
+            "byteOffset" : 743228
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        },
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987,
+            "wrapS" : 33071,
+            "wrapT" : 33071
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 2135944,
+            "uri" : "nu.bin"
+        }
+    ]
+}
